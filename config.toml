@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "My blog"
+title = "刘仲敬合集"
 theme = "paper"
 
 [Params]

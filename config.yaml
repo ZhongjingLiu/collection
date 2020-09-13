@@ -53,6 +53,9 @@ menu:
     - name: RSS
       url: /index.xml
       weight: 5
+    - name: Github
+      url: /github
+      weight: 6
 
 markup:
   defaultMarkdownHandler: goldmark

@@ -10,7 +10,7 @@ tags:
 - weibo
 - wechat
 title: 经与史：华夏世界的历史建构
-url: https://zhongjingliu.netlify.app/03_books/经与史/
+url: ../03_books/经与史/
 ---
 
 
